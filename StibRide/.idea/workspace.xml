@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2410060a-e63a-4f9d-8c44-546053073e5d" name="Changes" comment="EXAMEN BLANC 2022">
+      <change afterPath="$PROJECT_DIR$/../.idea/g56172.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_base_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_controls_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_media_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_media_win_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_web_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_openjfx_javafx_web_win_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_27_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/SortingRace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/Thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/data/Simulation.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/null" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/com/example/thread/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/com/example/thread/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/config/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/dao/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/dao/SimulationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/dto/SimulationDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/exception/RepositoryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/model/BubbleRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/model/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/model/MergeRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/model/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/model/SortResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/repository/SimulationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/view/FxmlController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/view/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/view/SimulationFxController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/java/view/ViewSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/resources/com/example/thread/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/resources/com/example/thread/simulation.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/resources/com/example/thread/sort.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/com/example/thread/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/com/example/thread/MainApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/com/example/thread/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/com/example/thread/simulation.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/com/example/thread/sort.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/config/ConfigManager$ConfigManagerHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/config/ConfigManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/dao/DBManager$DBManagerHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/dao/DBManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/dao/SimulationDao$SimulationDaoHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/dao/SimulationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/dto/SimulationDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/exception/RepositoryException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/model/BubbleRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/model/Configuration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/model/MergeRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/model/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/model/Observable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/model/SortResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/repository/SimulationRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/view/FxmlController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/view/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/view/SimulationFxController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/view/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/classes/view/ViewSimulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/maven-status/maven-compiler-plugin/compile/default-cli/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/maven-status/maven-compiler-plugin/compile/default-cli/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/test-classes/model/BubbleRunnableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/target/test-classes/model/MergeRunnableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/test/model/BubbleRunnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingRace/test/model/MergeRunnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_runner_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_ea_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_27_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_04_2022_13_14_[Changes]/jdbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_04_2022_13_15_[Changes]/jdbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StibRide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/DBstib.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/null" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/g56172/stibride/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/g56172/stibride/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/Dto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/FavTravelDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/LinesDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/StationsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/StopsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jbdc/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jbdc/FavTravelDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jbdc/LinesDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jbdc/StationsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jbdc/StationsNlDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jbdc/StopsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myException/RepositoryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repisotory/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repisotory/FavTravelRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repisotory/LinesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repisotory/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repisotory/StationsNlRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repisotory/StationsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repisotory/StopsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/ControllerFavFx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/ControllerFavUpdateFx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/ControllerFx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/ViewFav.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/ViewFavUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/DBstib.sqbpro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metro.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/viewFav.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/viewFavUpdate.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jbdc/FavTravelDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jbdc/LinesDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jbdc/StationsDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jbdc/StationsNlDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jbdc/StopsDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/repisotory/FavTravelRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/repisotory/LinesRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/repisotory/StationsNlRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/repisotory/StationsRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/repisotory/StopsRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/DBstib.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/metro.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/viewFav.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/viewFavUpdate.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DBstib.sqbpro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/be/g56172/stibride/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/be/g56172/stibride/MainApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/ConfigManager$ConfigManagerHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/ConfigManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dto/Dto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dto/FavTravelDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dto/LinesDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dto/StationsDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dto/StopsDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/DBManager$DBManagerHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/DBManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/FavTravelDao$FavTravelDaoHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/FavTravelDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/LinesDao$LinesDaoHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/LinesDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/StationsDao$StationsDaoHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/StationsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/StationsNlDao$StationsNlDaoHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/StationsNlDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/StopsDao$StopsDaoHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jbdc/StopsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/metro.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Search.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myException/RepositoryException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observer/Observable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observer/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/repisotory/Dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/repisotory/FavTravelRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/repisotory/LinesRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/repisotory/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/repisotory/StationsNlRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/repisotory/StationsRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/repisotory/StopsRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/ControllerFavFx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/ControllerFavUpdateFx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/ControllerFx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/Presenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/ViewFav.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/ViewFavUpdate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/viewFav.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/viewFavUpdate.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/DBstib.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/jbdc/FavTravelDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/jbdc/LinesDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/jbdc/StationsDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/jbdc/StopsDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/metro.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/repisotory/FavTravelRepositoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/repisotory/LinesRepositoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/repisotory/StationsRepositoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/repisotory/StopsRepositoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/viewFav.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/viewFavUpdate.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/jbdc/StationsNlDao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/jbdc/FavTravelDao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/observer/Observable.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/model/Graph.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/jbdc/StopsDao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/repisotory/StationsNlRepository.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/repisotory/StopsRepository.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/repisotory/StationsRepository.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/view/ControllerFx.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/model/Model.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/view/Presenter.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="284bnwp1MrNqiHx4ie6y6AZ95j0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/sqlite-jdbc-3.30.1.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.74482757" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="jbdc" />
+      <recent name="View" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DarkW\Desktop\g56172\StibRide\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DarkW\Desktop\g56172\StibRide\src\main\java\View" />
+      <recent name="C:\Users\DarkW\Desktop\g56172\StibRide\src" />
+      <recent name="C:\Users\DarkW\Desktop\g56172\StibRide\data" />
+      <recent name="C:\Users\DarkW\Desktop\g56172\StibRide\src\main\java\Model" />
+      <recent name="C:\Users\DarkW\Desktop\g56172\StibRide\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="config" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="jbdc" />
+      <recent name="repisotory" />
+      <recent name="Repisotory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in StibRide">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.g56172.stibride.MainApplication" />
+      <module name="StibRide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.g56172.stibride.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in StibRide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StibRide" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FavTravelDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StibRide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jbdc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jbdc" />
+      <option name="MAIN_CLASS_NAME" value="jbdc.FavTravelDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FavTravelRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StibRide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repisotory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repisotory" />
+      <option name="MAIN_CLASS_NAME" value="repisotory.FavTravelRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StationsDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StibRide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jbdc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jbdc" />
+      <option name="MAIN_CLASS_NAME" value="jbdc.StationsDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in StibRide" />
+        <item itemvalue="Application.MainApplication" />
+        <item itemvalue="JUnit.FavTravelRepositoryTest" />
+        <item itemvalue="JUnit.FavTravelDaoTest" />
+        <item itemvalue="JUnit.StationsDaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2410060a-e63a-4f9d-8c44-546053073e5d" name="Changes" comment="" />
+      <created>1650478978031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650478978031</updated>
+      <workItem from="1650478979524" duration="12160000" />
+      <workItem from="1650535171127" duration="4639000" />
+      <workItem from="1650550219931" duration="5853000" />
+      <workItem from="1651062958682" duration="4705000" />
+      <workItem from="1651071900694" duration="15289000" />
+      <workItem from="1651154820454" duration="7190000" />
+      <workItem from="1651165243557" duration="6664000" />
+      <workItem from="1651335228056" duration="2651000" />
+      <workItem from="1651338505141" duration="10671000" />
+      <workItem from="1651405468164" duration="11330000" />
+      <workItem from="1651685118396" duration="3278000" />
+      <workItem from="1652882138966" duration="9270000" />
+      <workItem from="1653398164845" duration="90000" />
+      <workItem from="1653400452042" duration="12000" />
+      <workItem from="1653830736305" duration="12710000" />
+      <workItem from="1653851195842" duration="4095000" />
+      <workItem from="1653860435416" duration="76000" />
+      <workItem from="1653913126739" duration="65000" />
+      <workItem from="1653916672324" duration="554000" />
+      <workItem from="1653917539204" duration="1252000" />
+    </task>
+    <task id="LOCAL-00001" summary="Stib setup project">
+      <created>1650504482822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650504482822</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Stib setup db access and begin test">
+      <created>1650539541376</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650539541376</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Stib setup db access and begin test">
+      <created>1650539724755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650539724755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dijkstra finish (before clear code)">
+      <created>1651168533525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651168533525</updated>
+    </task>
+    <task id="LOCAL-00005" summary="clear code and begin to make test">
+      <created>1651171922836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651171922836</updated>
+    </task>
+    <task id="LOCAL-00006" summary="finish view and begin to implement fav">
+      <created>1651347589284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651347589284</updated>
+    </task>
+    <task id="LOCAL-00007" summary="finish stibProject">
+      <created>1651417165168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651417165168</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update code">
+      <created>1651694589348</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651694589349</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update code">
+      <created>1651694597055</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651694597055</updated>
+    </task>
+    <task id="LOCAL-00010" summary="try to solve mockito problem">
+      <created>1652816744145</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652816744145</updated>
+    </task>
+    <task id="LOCAL-00011" summary="solve problem mockito and add test">
+      <created>1652893157368</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652893157368</updated>
+    </task>
+    <task id="LOCAL-00012" summary="EXAMEN BLANC 2022">
+      <created>1653844617811</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653844617811</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Stib setup project" />
+    <MESSAGE value="Stib setup db access and begin test" />
+    <MESSAGE value="first implementation of Dijkstra" />
+    <MESSAGE value="Dijkstra finish (before clear code)" />
+    <MESSAGE value="clear code and begin to make test" />
+    <MESSAGE value="finish view and begin to implement fav" />
+    <MESSAGE value="finish stibProject" />
+    <MESSAGE value="update code" />
+    <MESSAGE value="try to solve mockito problem" />
+    <MESSAGE value="solve problem mockito and add test" />
+    <MESSAGE value="EXAMEN BLANC 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAMEN BLANC 2022" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/jbdc/StopsDaoTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jbdc/LinesDao.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jbdc/LinesDao.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/repisotory/LinesRepository.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/repisotory/StationsRepository.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jbdc/StationsDao.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jbdc/StationsDao.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jbdc/DBManager.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalAccessException" package="java.lang" />
+          <option name="timeStamp" value="36" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/jbdc/FavTravelDao.java</url>
+          <line>95</line>
+          <properties class="jbdc.FavTravelDao">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/model/Graph.java</url>
+          <line>125</line>
+          <properties class="model.Graph">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/view/Presenter.java</url>
+          <line>18</line>
+          <properties class="view.Presenter">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/config/ConfigManager.java</url>
+          <line>12</line>
+          <properties class="config.ConfigManager" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="DTO.StationsDto" memberName="name" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this" />
+        <watch expression="allNeighbour" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
